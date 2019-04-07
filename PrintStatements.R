@@ -1,3 +1,5 @@
 print ("file created in R Studio")
 
-print ("file comminted to Git Hub")
+print ("file commited to Git Hub")
+
+print ("file yet to commit")
